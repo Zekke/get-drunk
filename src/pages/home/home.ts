@@ -28,8 +28,8 @@ export class HomePage {
 
   initMap() {
     this.map = new google.maps.Map(this.mapElement.nativeElement, {
-      zoom: 7,
-      center: {lat: 41.85, lng: -87.65}
+      zoom: 20,
+      center: {lat: 48.85, lng: 2.29}
     });
 
     this.directionsDisplay.setMap(this.map);
