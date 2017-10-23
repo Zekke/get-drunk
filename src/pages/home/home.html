@@ -9,25 +9,15 @@
 <ion-content padding>
   <!-- menu déroulant -->
   <div id="floating-panel">
-    <b>Start: </b>
-    <select [(ngModel)]="start" id="start" (change)="calculateAndDisplayRoute()">
-      <option value="chicago, il">Chicago</option>
-      <option value="st louis, mo">St Louis</option>
-      <option value="joplin, mo">Joplin, MO</option>
-      <option value="oklahoma city, ok">Oklahoma City</option>
-      <option value="amarillo, tx">Amarillo</option>
-      <option value="gallup, nm">Gallup, NM</option>
-      <option value="flagstaff, az">Flagstaff, AZ</option>
-      <option value="winona, az">Winona</option>
-      <option value="kingman, az">Kingman</option>
-      <option value="barstow, ca">Barstow</option>
-      <option value="san bernardino, ca">San Bernardino</option>
-      <option value="los angeles, ca">Los Angeles</option>
-    </select><br>
     <b>End: </b>
     <select [(ngModel)]="end" id="end" (change)="calculateAndDisplayRoute()">
-      <option value="chicago, il">Chicago</option>
-      <option value="st louis, mo">St Louis</option>
+
+      <option value="1 Place des Arts, 95000 Cergy">O'Sullivans, Cergy</option>
+      <option value="5 Avenue Jean Bart, 95000 Cergy">The Old English Pub, Cergy</option>
+
+      <option value="53 Rue du Faubourg Saint-Antoine, 75011 Paris">Corcoran's Irish Pub, Paris XIe</option>
+      <option value="6 Passage Thiéré, 75011 Paris">Meltdown, Paris XIe</option>
+      <!--
       <option value="joplin, mo">Joplin, MO</option>
       <option value="oklahoma city, ok">Oklahoma City</option>
       <option value="amarillo, tx">Amarillo</option>
@@ -38,6 +28,7 @@
       <option value="barstow, ca">Barstow</option>
       <option value="san bernardino, ca">San Bernardino</option>
       <option value="los angeles, ca">Los Angeles</option>
+      -->
     </select>
   </div>
   <div #map id="map"></div>
