@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\zekke\\WebstormProjects\\get-drunk\\platforms\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 166,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\zekke\\WebstormProjects\\get-drunk\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\11.4.2\\res\\values-zh-rHK\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 289,
+                        "endColumn": 166,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 100,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "C:\\Users\\zekke\\WebstormProjects\\get-drunk\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.firebase\\firebase-messaging\\11.4.2\\res\\values-zh-rHK\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 249,
+                        "endColumn": 96,
+                        "endOffset": 345
+                    }
+                }
+            }
+        ]
+    }
+]

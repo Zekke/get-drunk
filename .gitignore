@@ -25,7 +25,6 @@ temp/
 hooks/
 plugins/android.json
 plugins/ios.json
-www/
 $RECYCLE.BIN/
 
 .DS_Store

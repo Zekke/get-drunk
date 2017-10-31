@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\zekke\\WebstormProjects\\get-drunk\\platforms\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fa\\values-fa.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 213,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "C:\\Users\\zekke\\WebstormProjects\\get-drunk\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\11.4.2\\res\\values-fa\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 213,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 108,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "C:\\Users\\zekke\\WebstormProjects\\get-drunk\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.firebase\\firebase-messaging\\11.4.2\\res\\values-fa\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 245,
+                        "endColumn": 104,
+                        "endOffset": 349
+                    }
+                }
+            }
+        ]
+    }
+]
