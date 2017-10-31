@@ -24,3 +24,17 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+Voici le projet Get Drunk par [Clément Dahi](clement.dahi@epitech.eu).
+## Présentation
+*(M - Mobile Hybrid - Project) (PAR-9-1)*
+L'application Get Drunk a pour but de permettre à mon groupe de potes de se retrouver facilement lorsqu'on décide de se cuiter quelque part dans Paris.
+
+### Développeur
+Clément Dahi - Aucune connaissance en langages web ni en développement mobile lors de la réalisation de ce projet, je n'ai pu assister qu'au tout premier cours du module (celui du jeudi).
+
+### Projet
+Framework: Ionic3
+Api native utilisée: Géolocalisation
+Réception de notifications : Oui (Firebase)
+
+ToDo : Implémentation d'un bouton permettant de POST une notification vers Firebase, informant les autres personnes que l'utilisateur est en route pour un bar.
