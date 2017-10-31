@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "591412110762",
+    "firebase_url": "https://get-drunk-a28a0.firebaseio.com",
+    "project_id": "get-drunk-a28a0",
+    "storage_bucket": "get-drunk-a28a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591412110762:android:9e6096e132eaa4b6",
+        "android_client_info": {
+          "package_name": "com.dahic.getdrunk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591412110762-09orsb8o4vao7h0q4ljqjuqege06fak7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwHOzeEdqkggcrKn66h_DV-EDAaUcDiyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
