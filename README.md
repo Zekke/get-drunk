@@ -14,6 +14,8 @@ Api native utilisée: Géolocalisation
 
 Réception de notifications : Oui (Firebase)
 
+Apk: https://github.com/Zekke/get-drunk/tree/master/platforms/android/build/outputs/apk
+
 #### Push de notifications
 http://onlinecurl.com/
 
