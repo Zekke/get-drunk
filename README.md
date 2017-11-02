@@ -16,7 +16,7 @@ Réception de notifications : Oui (Firebase)
 
 Apk: https://github.com/Zekke/get-drunk/tree/master/platforms/android/build/outputs/apk
 
-#### Push de notifications
+#### Tester le push de notifications
 http://onlinecurl.com/
 
 ```bash
@@ -29,7 +29,7 @@ curl -X POST \
 	"to": "/topics/all",
 	"notification": {
 	    "title": "Hello World!",
-	    "body": "Proin rutrum, nunc vitae porta volutpat, mi nibh.",
+	    "body": "Ceci est une notification intéressante.",
         "icon": "fcm_push_icon",
     	"color": "#F79838",
         "sound":"default"
@@ -39,4 +39,18 @@ curl -X POST \
 }'
 ```
 
-ToDo : Implémentation d'un bouton permettant de POST une notification vers Firebase, informant les autres personnes que l'utilisateur est en route pour un bar.
+## ToDo
+
+### Backend
+* Mise en place d'un serveur NodeJS et d'une api permetant de :
+  * Gérer les push de notification entre les clients via Firebase
+  * Gérer les friendlists
+* Mise en place de la base de donnée
+
+### Frontend
+* Implémentation de la liste d'amis
+  * Afficher la liste d'ami dans une autre page
+  * Ajouter/Supprimer un ami
+* Implémentation d'un bouton permettant de POST une notification vers Firebase pour :
+  * Informer les amis que l'utilisateur est en route pour le bar selectionné.
+  * Informer les amis que l'utilisateur est au bar selectionné.
