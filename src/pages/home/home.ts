@@ -3,6 +3,7 @@ import { NavController } from 'ionic-angular';
 import { IonicPage } from 'ionic-angular';
 
 import { Geolocation } from '@ionic-native/geolocation';
+import { FriendListPage } from "../friend-list/friend-list";
 
 declare var google;
 
@@ -21,6 +22,10 @@ export class HomePage {
 
   constructor(public navCtrl: NavController, private geolocation: Geolocation) {
 
+  }
+
+  testNav(){
+    this.navCtrl.push(FriendListPage);
   }
 
   ionViewDidLoad(){
@@ -68,36 +73,5 @@ export class HomePage {
     }, (err) => {
       console.log(err);
     });
-
-    /*
-    this.directionsService.route({
-      origin: this.start,
-      destination: this.end,
-      travelMode: 'DRIVING'
-    }, (response, status) => {
-      if (status === 'OK') {
-        this.directionsDisplay.setDirections(response);
-      } else {
-        window.alert('Directions request failed due to ' + status);
-      }
-    });
-*/
-    /*
-    this.geolocation.getCurrentPosition().then((position) => {
-      let latLng = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-
-      this.directionsService.route({
-        origin: 'Chicago, Il',
-        destination: this.end,
-        travelMode: 'WALKING'
-      }, (response, status) => {
-        if (status === 'OK') {
-          this.directionsDisplay.setDirections(response);
-        } else {
-          window.alert('Directions request failed due to ' + status);
-        }
-      });
-
-    });*/
   }
 }

@@ -25526,14 +25526,11 @@ page-home #floating-panel {
   padding-left: 10px;
 }
 
-page-home #push-button {
+page-home #toggle-menu-button {
   position: absolute;
-  top: 55px;
-  right: 5px;
+  bottom: 55px;
+  left: 5px;
   z-index: 5;
-  background-color: #fff;
-  padding: 5px;
-  border: 1px solid #999;
   text-align: center;
   font-family: 'Roboto','sans-serif';
   line-height: 30px;

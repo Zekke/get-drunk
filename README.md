@@ -14,6 +14,8 @@ Api native utilisée: Géolocalisation
 
 Réception de notifications : Oui (Firebase)
 
+La liste d'ami est, pour le moment, fictive et générée grace à l'api suivante : https://randomuser.me
+
 Apk: https://github.com/Zekke/get-drunk/tree/master/platforms/android/build/outputs/apk
 
 #### Tester le push de notifications
@@ -48,8 +50,7 @@ curl -X POST \
 * Mise en place de la base de donnée
 
 ### Frontend
-* Implémentation de la liste d'amis
-  * Afficher la liste d'ami dans une autre page
+* Liste d'amis
   * Ajouter/Supprimer un ami
 * Implémentation d'un bouton permettant de POST une notification vers Firebase pour :
   * Informer les amis que l'utilisateur est en route pour le bar selectionné.

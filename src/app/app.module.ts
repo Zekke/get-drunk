@@ -6,24 +6,31 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { Geolocation } from '@ionic-native/geolocation';
 
 import { MyApp } from './app.component';
+import { PeopleServiceProvider } from '../providers/people-service/people-service';
+import { HttpModule } from '@angular/http';
+import {FriendListPage} from "../pages/friend-list/friend-list";
 
 @NgModule({
   declarations: [
-    MyApp
+    MyApp,
+    FriendListPage
   ],
   imports: [
     BrowserModule,
+    HttpModule,
     IonicModule.forRoot(MyApp)
   ],
   bootstrap: [IonicApp],
   entryComponents: [
-    MyApp
+    MyApp,
+    FriendListPage
   ],
   providers: [
     StatusBar,
     SplashScreen,
     Geolocation,
-    {provide: ErrorHandler, useClass: IonicErrorHandler}
+    {provide: ErrorHandler, useClass: IonicErrorHandler},
+    PeopleServiceProvider
   ]
 })
 export class AppModule {}
