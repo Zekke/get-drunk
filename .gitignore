@@ -4,19 +4,33 @@
 *~
 *.sw[mnpcod]
 *.log
+*.lock
 *.tmp
 *.tmp.*
 log.txt
 *.sublime-project
 *.sublime-workspace
-.vscode/
-npm-debug.log*
 
+.idea/
 .sourcemaps/
+.vscode/
 .sass-cache/
-.tmp/
+.versions/
+coverage/
+dist/
+node_modules/
+tmp/
+temp/
 $RECYCLE.BIN/
 
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
+.env
+
+.package.tmp.json
+
+src/themes/version.scss
+scripts/e2e/webpackEntryPoints.json
+scripts/build/e2e-generated-tsconfig.json
+*.css.ts
