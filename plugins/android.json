@@ -1,0 +1,33 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.dahic.getdrunk"
+        },
+        "cordova-plugin-fcm": {
+            "PACKAGE_NAME": "com.dahic.getdrunk"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.dahic.getdrunk"
+        },
+        "cordova-plugin-ionic-webview": {
+            "PACKAGE_NAME": "com.dahic.getdrunk"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.dahic.getdrunk"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.dahic.getdrunk"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.dahic.getdrunk"
+        }
+    },
+    "dependent_plugins": {}
+}
