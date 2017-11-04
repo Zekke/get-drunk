@@ -22,7 +22,7 @@ export class PeopleServiceProvider {
     }
     else{
       return new Promise(resolve => {
-        this.http.get('https://randomuser.me/api/?results=10')
+        this.http.get('https://randomuser.me/api/?results=50')
           .map(res => res.json())
           .subscribe(data => {
             this.data = data.results;

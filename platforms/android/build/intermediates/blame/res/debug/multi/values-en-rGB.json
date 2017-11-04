@@ -41,5 +41,48 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\Users\\zekke\\Desktop\\GetDrunk\\get-drunk\\platforms\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 196,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "C:\\Users\\zekke\\Desktop\\GetDrunk\\get-drunk\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\11.4.2\\res\\values-en-rGB\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 289,
+                        "endColumn": 196,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endColumn": 111,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "C:\\Users\\zekke\\Desktop\\GetDrunk\\get-drunk\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.firebase\\firebase-messaging\\11.4.2\\res\\values-en-rGB\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 249,
+                        "endColumn": 107,
+                        "endOffset": 356
+                    }
+                }
+            }
+        ]
     }
 ]

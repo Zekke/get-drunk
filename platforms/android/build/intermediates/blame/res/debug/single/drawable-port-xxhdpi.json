@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\zekke\\Desktop\\GetDrunk\\get-drunk\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxhdpi\\screen.png",
+        "source": "C:\\Users\\zekke\\Desktop\\GetDrunk\\get-drunk\\platforms\\android\\res\\drawable-port-xxhdpi\\screen.png"
+    },
+    {
         "merged": "C:\\Users\\zekke\\WebstormProjects\\get-drunk\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxhdpi\\screen.png",
         "source": "C:\\Users\\zekke\\WebstormProjects\\get-drunk\\platforms\\android\\res\\drawable-port-xxhdpi\\screen.png"
     }

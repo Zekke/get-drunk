@@ -1,5 +1,48 @@
 [
     {
+        "outputFile": "C:\\Users\\zekke\\Desktop\\GetDrunk\\get-drunk\\platforms\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 203,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "C:\\Users\\zekke\\Desktop\\GetDrunk\\get-drunk\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\11.4.2\\res\\values-ro\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 203,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 105,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "C:\\Users\\zekke\\Desktop\\GetDrunk\\get-drunk\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.firebase\\firebase-messaging\\11.4.2\\res\\values-ro\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 245,
+                        "endColumn": 101,
+                        "endOffset": 346
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\zekke\\WebstormProjects\\get-drunk\\platforms\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
         "map": [
             {

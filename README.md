@@ -41,6 +41,11 @@ curl -X POST \
 }'
 ```
 
+#### Modifier le nombre d'amis
+Remplacer NB_AMIS par le nombre souhaité dans providers/people-servce/people-service.ts
+```bash
+this.http.get('https://randomuser.me/api/?results=NB_AMIS')
+```
 ## ToDo
 
 ### Backend

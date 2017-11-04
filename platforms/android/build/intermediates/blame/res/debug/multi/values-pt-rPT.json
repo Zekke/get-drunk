@@ -1,5 +1,48 @@
 [
     {
+        "outputFile": "C:\\Users\\zekke\\Desktop\\GetDrunk\\get-drunk\\platforms\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 203,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "C:\\Users\\zekke\\Desktop\\GetDrunk\\get-drunk\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\11.4.2\\res\\values-pt-rPT\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 289,
+                        "endColumn": 203,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 106,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "C:\\Users\\zekke\\Desktop\\GetDrunk\\get-drunk\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.firebase\\firebase-messaging\\11.4.2\\res\\values-pt-rPT\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 249,
+                        "endColumn": 102,
+                        "endOffset": 351
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\zekke\\WebstormProjects\\get-drunk\\platforms\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
         "map": [
             {

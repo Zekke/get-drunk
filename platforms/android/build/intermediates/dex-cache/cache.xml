@@ -12,21 +12,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jar="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.4.2\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_f5af85420b0ff5312c88f37c0d8a24ce4045a926.jar" />
+        sha1="6e6b94b72d7912a627fb1629c310b2bca9261f06">
+        <dex dex="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-11.4.2_f545be0fc6d770a6ac1150053764c40060c758f6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jar="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.4.2\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_b4336934cc298a267f1caf4ddd8d3d329ffcfdb0.jar" />
+        sha1="5f519b8c692038a47ee404b6ea6b847f6402000c">
+        <dex dex="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-11.4.2_3bdde95dd3e2cd28989b8c26f9a2b5263a693800.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,15 +66,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_f0d740d09ab9c925e8f05cd1137031fc033d4698.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.4.2\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -84,12 +75,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.4.2\jars\classes.jar"
+        jar="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.4.2\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
-        <dex dex="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.4.2_03d97ea4009fc9c8d0b9cad61ae2a2c3f240c00e.jar" />
+        sha1="bed98ea7af8c5c4202820875e856dd3eb296e22d">
+        <dex dex="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-11.4.2_f24aa29f879e44383238c26f15a9126944f2bc4c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,12 +102,138 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_5252ac407b80059f2c354663537a3c549acc1a06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_f5af85420b0ff5312c88f37c0d8a24ce4045a926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_b4336934cc298a267f1caf4ddd8d3d329ffcfdb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_320f61a0957dac20a5f7df3f5d75c9d444cea6b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_dc86d1d5b48714d7b2e255debad9ff150ecea616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_f0d740d09ab9c925e8f05cd1137031fc033d4698.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.3.0\debug\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="df1a7a6af20c4eca090c1f535b77951ef6025bfb">
+        <dex dex="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-6.3.0-debug_d98879558251f94db6f8421d55a94ee362c32d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.4.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.4.2_5710f2589cc558d639b51636f16731c092abb838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.4.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20d6aa9a18ea9833cd2bee95dff7cd303cdb80e4">
+        <dex dex="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-11.4.2_08ec5192984649a614f1b41948ee2499a0ed505b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.4.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6555c483abcdcc71ef5f1d47bb1ff3fee35ef1b2">
+        <dex dex="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-11.4.2_4c56d109618a5b627013ec89c8b5d1986908fb14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_64c416426c5e6822f5d4534fa9738ed2672360f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.4.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.4.2_03d97ea4009fc9c8d0b9cad61ae2a2c3f240c00e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.4.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.4.2_6fb75676fe556865d1bb4aa481a752a4ceceb794.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.3.0\debug\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="df1a7a6af20c4eca090c1f535b77951ef6025bfb">
         <dex dex="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-6.3.0-debug_dd75448707d5e8480a23bbc10e176ef6699b414e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_d1f5397f71da57c1ac34926fc98406f377e8a424.jar" />
     </item>
     <item
         is-multidex="false"
@@ -135,6 +252,15 @@
         revision="26.0.2"
         sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
         <dex dex="C:\Users\zekke\WebstormProjects\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_5294b75e0716d1d6a43228bc8ff81eb95d789314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\zekke\Desktop\GetDrunk\get-drunk\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_d675530562f6afaaf694ca4367d0a5d013d46c95.jar" />
     </item>
 
 </items>
